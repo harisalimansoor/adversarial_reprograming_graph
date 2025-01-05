@@ -16,10 +16,6 @@ NumPy
 scikit-learn
 Matplotlib
 
-Install the dependencies by running:
-
-
-pip install tensorflow numpy scikit-learn matplotlib
 
 ## Files
 main.py
